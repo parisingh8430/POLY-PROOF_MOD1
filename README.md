@@ -379,9 +379,6 @@ The script uses the main().catch() pattern to handle errors in the asynchronous 
 
 ## Authors
 
-Khushi 
-[khushiawadh0829@gmail.com]
-[21CBT1050@cuchd.in]
 
 ## License
 
